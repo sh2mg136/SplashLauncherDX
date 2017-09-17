@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>RedexpressProUpdate.ico</ApplicationIcon>
+    <ApplicationIcon>RedexpressProUpdate3.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="DevExpress.BonusSkins.v14.2" />
@@ -114,6 +114,8 @@
   <ItemGroup>
     <Content Include="RedexpressPro.ico" />
     <Content Include="RedexpressProUpdate.ico" />
+    <Content Include="RedexpressProUpdate2.ico" />
+    <Content Include="RedexpressProUpdate3.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
