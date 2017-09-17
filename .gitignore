@@ -54,6 +54,9 @@ ipch/
 *.sdf
 *.cachefile
 
+# DX License
+*licx
+
 # Visual Studio profiler
 *.psess
 *.vsp
