@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplashLauncherDX", "SplashLauncherDX\SplashLauncherDX.csproj", "{7DCE8C4B-29D5-47AF-8FFA-98A6FDC13AC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXApplication1", "DXApplication1\DXApplication1.csproj", "{B1183392-71C0-4AB3-967B-867EEF45EDAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{AB0C8C6F-92AB-40B2-9724-AAF7CD8968DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DCE8C4B-29D5-47AF-8FFA-98A6FDC13AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCE8C4B-29D5-47AF-8FFA-98A6FDC13AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCE8C4B-29D5-47AF-8FFA-98A6FDC13AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCE8C4B-29D5-47AF-8FFA-98A6FDC13AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1183392-71C0-4AB3-967B-867EEF45EDAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1183392-71C0-4AB3-967B-867EEF45EDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1183392-71C0-4AB3-967B-867EEF45EDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1183392-71C0-4AB3-967B-867EEF45EDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB0C8C6F-92AB-40B2-9724-AAF7CD8968DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0C8C6F-92AB-40B2-9724-AAF7CD8968DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0C8C6F-92AB-40B2-9724-AAF7CD8968DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0C8C6F-92AB-40B2-9724-AAF7CD8968DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
